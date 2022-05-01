@@ -14,9 +14,13 @@ and the Flutter guide for
 ## Features
 
 A Dropdown List with TextField search and Keyboard support.
-Arrow_UP & Arrow_DOWN : for travelling in the list
-Enter_KEY : Selects the current selected item in the list
-Escape_KEY : Closes the Dropdown overlay and reset the search TextField
+
+**Arrow_UP & Arrow_DOWN** : for travelling in the list
+
+**Enter_KEY** : Selects the current selected item in the list
+
+**Escape_KEY** : Closes the Dropdown overlay and reset the search TextField
+
 
 <img src="https://raw.githubusercontent.com/siddiquisahil02/dropdown_text_search/main/assets/example.gif"  height = "500" >
 
@@ -37,9 +41,7 @@ to `/example` folder.
 
 ```dart
 SizedBox(
-    width: isWide
-            ? SizeConfig.blockSizeHorizontal! * 22
-            : SizeConfig.blockSizeHorizontal! * 35,
+    width: 250,
     child: DropdownTextSearch(
         onChange: (val){
             print(val);
