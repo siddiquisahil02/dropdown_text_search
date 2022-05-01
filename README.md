@@ -21,7 +21,7 @@ Arrow_UP & Arrow_DOWN : for travelling in the list
 Enter_KEY : Selects the current selected item in the list
 Escape_KEY : Closes the Dropdown overlay and reset the search TextField
 
-<img src="https://raw.githubusercontent.com/siddiquisahil02/dropdown_text_search/blob/main/assets/example.gif"  height = "500" >
+<img src="https://raw.githubusercontent.com/siddiquisahil02/dropdown_text_search/main/assets/example.gif"  height = "500" >
 
 Note : Currently, only working for String list items.
 
