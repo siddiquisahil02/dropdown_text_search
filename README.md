@@ -11,6 +11,13 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+# Dropdown Text Search
+
+![](https://img.shields.io/badge/BK14-Billi-red)
+![](https://img.shields.io/github/languages/top/siddiquisahil02/dropdown_text_search)
+![](https://img.shields.io/github/last-commit/siddiquisahil02/dropdown_text_search)
+
+
 ## Features
 
 A Dropdown List with TextField search and Keyboard support.
